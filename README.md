@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://riquelme3m.github.io/iJunior-Trainee-News-Homepage/)
 
 
 
